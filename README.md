@@ -1,3 +1,3 @@
-# carrito-localstorage
+# Carrito de compras con JS y localStorage
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/carrito-localstorage)
+Un miniproyecto con JS. eventualmente lo modificaré.
